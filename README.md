@@ -1,2 +1,0 @@
-# git-karru
-learning git 
